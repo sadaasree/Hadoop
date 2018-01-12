@@ -8,3 +8,4 @@ Before I started my master's degree,I was a Software Automation Tester having va
 ## Something Interesting About You
 I'm a pretty good dancer and during my high school and bachelor's college days I have participated in all the inter-collegiate festivals.
 ## Git Tutorial
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Badge%20Of%20Completion.jpg "Level 1 Badge Of Completion")
