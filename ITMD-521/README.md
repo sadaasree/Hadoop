@@ -4,7 +4,7 @@
 ## Where are you from?
 I'm from Chennai,Tamilnadu,India.(Located on the Coromandel Coast off the Bay of Bengal) 
 ## IT Interest
-Before i started my master's degree,I was a Software Automation Tester having vast knowledge of QA processes, management and an expertise in HP QTP/UFT,Oracle SQL and defect tracking tool HP QC/ALM extensively in Insurance domain.And now I'm striving to become a succesful Data Analyst.
+Before I started my master's degree,I was a Software Automation Tester having vast knowledge of QA processes, management and an expertise in HP QTP/UFT,Oracle SQL and defect tracking tool HP QC/ALM extensively in Insurance domain.And now I'm striving to become a succesful Data Analyst.
 ## Something Interesting About You
-I'm a pretty good dancer and during my high school and bachelor's college days I used to participate in all the inter-collegiate festivals.
+I'm a pretty good dancer and during my high school and bachelor's college days I have participated in all the inter-collegiate festivals.
 ## Git Tutorial
