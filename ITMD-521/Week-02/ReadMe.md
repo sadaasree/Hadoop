@@ -4,7 +4,7 @@
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Vagrant%20box%20List%20for%20vangrant%20and%20packer.jpg "Output2")
 ## Output of the command hadoop version for itmd521
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Hadoop%20Version.jpg "Output3")
-## Output of the command hadoop version for itmd521-cluster
+
 
 
 
