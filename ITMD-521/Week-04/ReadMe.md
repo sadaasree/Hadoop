@@ -36,8 +36,7 @@ Clone this repo to your system, add this file to a folder named Week-04 (mind th
  Assume all work and code will be executed on the Vagrant Box
 
 ### Deliverable 1
-
-![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Independent.jpg "Independent women")
+**ScreenShot here**
 
 ### Devliverable 2
 
