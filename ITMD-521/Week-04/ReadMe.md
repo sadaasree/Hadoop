@@ -37,7 +37,7 @@ Clone this repo to your system, add this file to a folder named Week-04 (mind th
 
 ### Deliverable 1
 
-**Screenshot here**
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Independent.jpg "Independent women")
 
 ### Devliverable 2
 
