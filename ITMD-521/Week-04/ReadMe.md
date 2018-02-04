@@ -43,7 +43,7 @@ Clone this repo to your system, add this file to a folder named Week-04 (mind th
 
 ### Devliverable 2
 
-**ScreenShot here**
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable%202.1.jpg "MaxTemperature using SQL")
 
 ### Additional Notes
 
