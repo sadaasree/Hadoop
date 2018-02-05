@@ -46,4 +46,9 @@ Clone this repo to your system, add this file to a folder named Week-04 (mind th
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable%202.1.jpg "MaxTemperature using SQL")
 
 ### Additional Notes
+Referred the following weblink to get the python code work,
+https://stackoverflow.com/questions/44899209/python-how-to-pass-a-directory-as-mapreduce-input
+
+
+
 
