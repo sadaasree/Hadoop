@@ -23,3 +23,4 @@ Include file named ```sqoop.sh``` containing the command used to run the sqoop c
 ### Deliverable 2
 
 Place your screen shot of the ```hadoop fs -tail <file>``` command here
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/SqoopSQL.png "Week-05 Deliverable Sqoop SQL")
