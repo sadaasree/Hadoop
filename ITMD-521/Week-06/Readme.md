@@ -31,10 +31,10 @@ Repeat the work above this time add a ```WHERE``` clause selecting only record n
 
 ### Deliverable 1
 
-
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Week-06%20Deliverable%201.png "Week-06 Deliverable1")
 
 ### Deliverable 2
-
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Week%20-06%20Deliverable%202.png "Week-06 Deliverable2")
 
 ### Notes
 
