@@ -69,6 +69,10 @@ Using the textbook and the previous chapters, explain the effect of the reducer 
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_WithCombiner_1001.PNG "Week-11 Deliverable2")
 #### Third Run:
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_WithCombiner_1002.PNG "Week-11 Deliverable2")
+
+##### Bar Graph for all the occurances
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2_Graph.png "Week-11 Deliverable2")
+
 ### Deliverable 3
 
 
