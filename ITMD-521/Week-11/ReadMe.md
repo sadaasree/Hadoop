@@ -38,6 +38,14 @@ Using the textbook and the previous chapters, explain the effect of the reducer 
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/deliverable1.png "Week-11 Deliverable1")
 
 ### Deliverable 2
+#### Job History for DOB Jobs(1990) 
+#### First Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0942.PNG "Week-11 Deliverable2")
+#### Second Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0943.PNG "Week-11 Deliverable2")
+#### Second Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0944.PNG "Week-11 Deliverable2")
+
 
 
 ### Deliverable 3
