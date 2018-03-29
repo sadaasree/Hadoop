@@ -35,7 +35,7 @@ Note the execution time and graph all of the occurances (six job runs vs time to
 Using the textbook and the previous chapters, explain the effect of the reducer upon the outcomes of the job execution time from Part II in technical detail (It is faster or slower is not an acceptable answer).  Cite page sources from the book explaining how you arrived at your answer.
 
 ### Deliverable 1
-
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/deliverable1.png "Week-11 Deliverable1")
 
 ### Deliverable 2
 
