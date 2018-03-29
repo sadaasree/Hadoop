@@ -43,11 +43,32 @@ Using the textbook and the previous chapters, explain the effect of the reducer 
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0942.PNG "Week-11 Deliverable2")
 #### Second Run:
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0943.PNG "Week-11 Deliverable2")
-#### Second Run:
+#### Third Run:
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_0944.PNG "Week-11 Deliverable2")
 
+#### Job History for DOB Jobs(1990) with Combiner
+#### First Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_WithCombiner_0945.PNG "Week-11 Deliverable2")
+#### Second Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_WithCombiner_0946.PNG "Week-11 Deliverable2")
+#### Third Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable2DOBJob_WithCombiner_0947.PNG "Week-11 Deliverable2")
 
+#### Job History for 60-70 Jobs
+#### First Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_0996.PNG "Week-11 Deliverable2")
+#### Second Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_0997.PNG "Week-11 Deliverable2")
+#### Third Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_0999.PNG "Week-11 Deliverable2")
 
+#### Job History for 60-70 Jobs with Combiner
+#### First Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_WithCombiner_1000.PNG "Week-11 Deliverable2")
+#### Second Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_WithCombiner_1001.PNG "Week-11 Deliverable2")
+#### Third Run:
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/8829f2e3bb0e3d4e2c016842af8be2039146ea32/ITMD-521/Week-11/Deliverable26070Job_WithCombiner_1002.PNG "Week-11 Deliverable2")
 ### Deliverable 3
 
 
