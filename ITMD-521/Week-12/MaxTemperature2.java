@@ -15,13 +15,13 @@ public class MaxTemperature2 {
 
     Job job = new Job();
     job.setJarByClass(MaxTemperature.class);
-    job.setJobName("SR Max temperature 1 Reducer");
+    job.setJobName("Max Temperature");
 
     FileInputFormat.addInputPath(job, new Path(args[0]));
     FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
     job.setMapperClass(MaxTemperatureMapper.class);
-    job.setReducerClass(MaxTemperatureReducer.class);
+    job.setReducerClass(MaxTemperatureReducerCounter.class);
     job.setNumReduceTasks(1);
     job.setOutputKeyClass(Text.class);
     job.setOutputValueClass(IntWritable.class);
@@ -29,5 +29,6 @@ public class MaxTemperature2 {
     System.exit(job.waitForCompletion(true) ? 0 : 1);
   }
 }
+// ^^ MaxTemperature
 // ^^ MaxTemperature
 ~                        
