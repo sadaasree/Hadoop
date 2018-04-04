@@ -80,6 +80,28 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 
 ### Deliverable 3
 #### md5 
-![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable3_md5.PNG "Week-12 Deliverable2")
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable3_md5.PNG "Week-12 Deliverable3")
 
+#### Job History for 60 Jobs With Intermediate Compression enabled & with 1 reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1386.PNG "Week-12 Deliverable3")
 
+#### Job History for 60 Jobs With Intermediate Compression enabled & with 2 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1387.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with 4 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1388.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with 8 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1390.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with Combiner and 1 reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1392.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with Combiner and 2 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1394.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with Combiner and 4 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1395.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with Combiner and 8 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1396.PNG "Week-12 Deliverable3")
