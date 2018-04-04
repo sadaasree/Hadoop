@@ -75,8 +75,6 @@ Using the textbook and the previous chapters, explain the effect of the reducer 
 
 ### Deliverable 3
 #### Effect of reducer on the above jobs 
-The output data from the mapper has to be sent to the reducer,we can see from the above results that the reducer hits the perforamce of the jobs,since each reducer has to create its own file and also each reducer needs to start up and be created/instantiated in the nodes.
-Having two few or two many reducer is also anti-productive.
 Too few reducers cause undue load on the node on which the reducer is scheduled. This also leads to very bad failure-recovery scenarios since a single failed reducer has an adverse impact on the latency of the job.Too many reducers affects the shuffle crossbar.In extreme cases too many small files are created as the output of the job which affects both the NameNode and performance of subsequent Map-Reduce applications where it needs to process lots of small files.
 
 The Combiner class is used in between the Map class and the Reduce class to reduce the volume of data transfer between Map and Reduce. Usually, the output of the map task is large and the data transferred to the reduce task is high.A combiner does not have a predefined interface and it must implement the Reducer interface’s reduce() method.A combiner operates on each map output key. It must have the same output key-value types as the Reducer class.A combiner can produce summary information from a large dataset because it replaces the original Map output.Although, Combiner is optional yet it helps segregating data into multiple groups for Reduce phase, which makes it easier to process.
