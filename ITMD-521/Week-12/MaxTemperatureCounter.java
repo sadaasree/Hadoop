@@ -22,7 +22,7 @@ public class MaxTemperatureCounter {
 
     job.setMapperClass(MaxTemperatureMapper.class);
     job.setReducerClass(MaxTemperatureReducerCounter.class);
-    job.setNumReduceTasks(1);
+    //job.setNumReduceTasks(2);
     job.setOutputKeyClass(Text.class);
     job.setOutputValueClass(IntWritable.class);
 
