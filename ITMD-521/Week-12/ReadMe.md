@@ -85,9 +85,11 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 The number of reduce tasks is not governed by the size of the input but instead is specified independently.When there are multiple reducers,the map tasks partition their output each creating one partition for each reduce task.There can be many keys and their associated values in each partition but the records for any given key are all in single partition.The partitioning can be controlled by a user-defined partitioning funcction but normally the default partitioner which buckets keys using a hash function works very well.
  The output data from the mapper has to be sent to the reducer,we can see from the above results that the reducer hits the perforamce of the jobs,since each reducer has to create its own file and also each reducer needs to start up and be created/instantiated in the nodes.
 Having two few or two many reducer is also anti-productive.
-Too many reducers affects the shuffle crossbar.In extreme cases too many small files are created as the output of the job which affects both the NameNode and performance of subsequent Map-Reduce applications where it needs to process lots of small files.
-
-
+Too many reducers affects the shuffle crossbar.In extreme cases too many small files are created as the output of the job which affects both the NameNode and performance of subsequent Map-Reduce applications where it needs to process lots of small files.Increasing the number of reducers increases the framework overhead, but increases load balancing and lowers the cost of failures.Since they are run parallel depending upon the keys it reduces the execution time
+For map-reduce jobs, it depends on our use case of what needs to done in the mapreduce job. Since we have heavy filtering in the map phase we should be seeing positive linear speed ups. For jobs that send most of their data to the reducers our bottleneck
+will be the network, IO or CPU required for the shuffle.In general, more nodes should mean faster (to a point) but we have to
+benchmark to find out the exact speedups.
+So here in our case we can see that the reducer tries to significantly reduce the time of the job execution but when a combiner is used along them the execution time varies.Here we can see that when a combiner was used the execution time has decreased for the job with one reducer and the execution time has increased for the job with two reducers.
 
 ### Deliverable 3
 #### md5 
@@ -146,3 +148,10 @@ Too many reducers affects the shuffle crossbar.In extreme cases too many small f
 
 #### Graph of all the occurances of 60-90 Jobs
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable_3_60-90%20Job.png "Week-12 Deliverable2")
+
+#### Effect of reducer on the above jobs 
+Similar to the part II,we can see that the 60 Jobs when incresaing the number of reducers has decreased the execution time while there are few discrepancies when we see the exevution time of the job with 2 reducers,but still it has managed to decrease the job execution time.And when we compare the job where we have used the combiners along the execution time is still more decreased when the combiners ae are being used.This is because the combiners always tries to decrease the bandwidth of the data to help them run faster.
+
+###### Referred Sites: 
+http://grokbase.com/t/cloudera/cdh-user/12655xwsxt/does-execution-time-decrease-linearly-with-increase-in-number-of-nodes
+https://stackoverflow.com/questions/39541718/why-increasing-the-number-of-reducers-increases-the-time-for-running-reduce-phas
