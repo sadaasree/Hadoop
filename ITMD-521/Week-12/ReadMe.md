@@ -65,7 +65,17 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 
 
 ### Deliverable 2
+#### Job History for DOB Jobs(1990) With 1 Reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1372.PNG "Week-12 Deliverable2")
 
+#### Job History for DOB Jobs(1990) With 2 Reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1374.PNG "Week-12 Deliverable2")
+
+#### Job History for DOB Jobs(1990) With Combiner and 1 Reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1380.PNG "Week-12 Deliverable2")
+
+#### Job History for DOB Jobs(1990) With Combiner and 2 Reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1382.PNG "Week-12 Deliverable2")
 
 ### Deliverable 3
 
