@@ -151,6 +151,7 @@ So here in our case we can see that the reducer tries to significantly reduce th
 
 #### Effect of reducer on the above jobs 
 Similar to the part II,we can see that the 60 Jobs when incresaing the number of reducers has decreased the execution time while there are few discrepancies when we see the exevution time of the job with 2 reducers,but still it has managed to decrease the job execution time.And when we compare the job where we have used the combiners along the execution time is still more decreased when the combiners ae are being used.This is because the combiners always tries to decrease the bandwidth of the data to help them run faster.
+When we see the 60-90 jobs we can see that when using reducer sit has decresaed the time adn when using combiner sit has managed to decresae the time a still more except for the job with two reducers.This may be due to the other factors such as network,IO or CPU required for the shuffle,but in general it tries to increase the performance of the job.
 
 ###### Referred Sites: 
 http://grokbase.com/t/cloudera/cdh-user/12655xwsxt/does-execution-time-decrease-linearly-with-increase-in-number-of-nodes
