@@ -105,3 +105,27 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 
 #### Job History for 60 Jobs With Intermediate Compression enabled & with Combiner and 8 reducers
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1396.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with 1 reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1397.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with 2 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1398.PNG "Week-12 Deliverable3")
+
+#### Job History for 60 Jobs With Intermediate Compression enabled & with 4 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1399.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with 8 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1402.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with Combiner and 1 reducer
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1407.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with Combiner and 2 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1411.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with Combiner and 4 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1413.PNG "Week-12 Deliverable3")
+
+#### Job History for 60-90 Jobs With Intermediate Compression enabled & with Combiner and 8 reducers
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1417.PNG "Week-12 Deliverable3")
