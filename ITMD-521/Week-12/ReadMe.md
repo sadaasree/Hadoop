@@ -78,6 +78,14 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 #### Job History for DOB Jobs(1990) With Combiner and 2 Reducers
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1382.PNG "Week-12 Deliverable2")
 
+#### Effect of reducer on the above jobs 
+The number of reduce tasks is not governed by the size of the input but instead is specified independently.When there are multiple reducers,the map tasks partition their output each creating one partition for each reduce task.There can be many keys and their associated values in each partition but the records for any given key are all in single partition.The partitioning can be controlled by a user-defined partitioning funcction but normally the default partitioner which buckets keys using a hash function works very well.
+ The output data from the mapper has to be sent to the reducer,we can see from the above results that the reducer hits the perforamce of the jobs,since each reducer has to create its own file and also each reducer needs to start up and be created/instantiated in the nodes.
+Having two few or two many reducer is also anti-productive.
+Too many reducers affects the shuffle crossbar.In extreme cases too many small files are created as the output of the job which affects both the NameNode and performance of subsequent Map-Reduce applications where it needs to process lots of small files.
+
+
+
 ### Deliverable 3
 #### md5 
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable3_md5.PNG "Week-12 Deliverable3")
