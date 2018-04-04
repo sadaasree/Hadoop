@@ -62,7 +62,8 @@ Using the textbook and the previous chapters, explain the effect of the reducer 
 Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 
 ### Deliverable 1
-
+#### Output of the two counters
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable%201.PNG "Week-12 Deliverable1")
 
 ### Deliverable 2
 #### Job History for DOB Jobs(1990) With 1 Reducer
@@ -78,6 +79,7 @@ Submit your Github repo URL to blackboard by 11:59 pm April 5th.
 ![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/1382.PNG "Week-12 Deliverable2")
 
 ### Deliverable 3
-
+#### md5 
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Deliverable3_md5.PNG "Week-12 Deliverable2")
 
 
