@@ -28,7 +28,7 @@ Provide a spark script (in either python or scala) that will find the max temper
 
 
 ### Deliverable 1
-![alt text](https://github.com/illinoistech-itm/sravichandar/tree/master/ITMD-521/Week-13 "Week 13 Output")
+![alt text](https://github.com/illinoistech-itm/sravichandar/blob/master/ITMD-521/Images/Week13Output.JPG "Week 13 Output")
 
 
 Submit your Github repo URL to blackboard by 11:59 pm April 19th.
