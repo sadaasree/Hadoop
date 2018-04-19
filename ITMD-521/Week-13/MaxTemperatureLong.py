@@ -10,7 +10,7 @@ sqlContext = SQLContext(sc)
 
 f1=open("results.txt","w")
 
-lines = sc.textFile(sys.argv[1]) \
+lines = sc.textFile("spark1950long.txt") \
  .map(lambda s: s.split("\t")) \
  .filter(lambda rec: (int(rec[1]) != 9999 and re.match("[01459]", rec[2]))) \
  .map(lambda rec: (int(rec[0]), int(rec[1]))) \
@@ -25,4 +25,3 @@ while(longitude<180):
     maxtemp=output.collect()
     f1.write(str(longitude)+" to "+str(longitude+10)+" = "+str(output.collect())+"\n")
     longitude=longitude+10
-
