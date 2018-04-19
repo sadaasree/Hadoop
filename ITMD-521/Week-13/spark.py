@@ -1,5 +1,5 @@
 
-f = open('spark1950Long.txt', 'w')
+f = open('spark1950long.txt', 'w')
 with open('1950.txt') as temp:
 
      for record in temp:
