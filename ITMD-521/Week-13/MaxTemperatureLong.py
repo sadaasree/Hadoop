@@ -8,7 +8,7 @@ sc = SparkContext("local", "Max Temperature")
 
 sqlContext = SQLContext(sc)
 
-f1=open("results.txt","w")
+f1=open("aggregation.txt","w")
 
 lines = sc.textFile(sys.argv[1]) \
 
