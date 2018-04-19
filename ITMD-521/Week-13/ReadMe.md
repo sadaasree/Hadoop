@@ -28,11 +28,17 @@ Provide a spark script (in either python or scala) that will find the max temper
 
 
 ### Deliverable 1
+![alt text](https://github.com/illinoistech-itm/sravichandar/tree/master/ITMD-521/Week-13 "Week 13 Output")
+
 
 Submit your Github repo URL to blackboard by 11:59 pm April 19th.
 
 In your Week-13 folder include all scripts and program instructions needed to retrieve and reproduce your results.  Upload your part-r-0000 file (results) as well)  Write and instruction/assumptions needed in the Assumption section below.
 
 ### Assumptions 1
+use thi scommand to execute the pyspark script
+   spark-submit --master local \MaxTemperatureNew.py \sparklong1950.txt output
+
+
 
 
